@@ -3,3 +3,4 @@ member:
 - Lee
 - Park
 - Woo
+- Kim
