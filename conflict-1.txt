@@ -5,3 +5,4 @@ member:
 - Woo
 - Kim
 - Son
+- Ha
