@@ -2,3 +2,4 @@ dept: ITsoftware
 member:
 - Lee
 - Park
+- Woo
