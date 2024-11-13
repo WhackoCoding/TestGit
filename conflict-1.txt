@@ -4,3 +4,4 @@ member:
 - Park
 - Woo
 - Kim
+- Min
